@@ -1,3 +1,3 @@
-# project created only with HTML and CSS
+# project created only by HTML and CSS
 
 Ostrovska Bohdana
